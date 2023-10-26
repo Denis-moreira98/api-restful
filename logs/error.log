@@ -164,3 +164,29 @@
 [35m[39m
 2023-10-26 16:36:01:361 - [35mGET /api/movie/653abf99bb463c5a3da22b97 200 502 - response-time ms[39m
 [35m[39m
+2023-10-26 17:10:46:1046 - [32mconectado ao banco de dados[39m
+2023-10-26 17:10:46:1046 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 17:10:48:1048 - [35mGET /api/movies 200 842 - response-time ms[39m
+[35m[39m
+2023-10-26 17:13:40:1340 - [32mconectado ao banco de dados[39m
+2023-10-26 17:13:40:1340 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 17:16:59:1659 - [32mconectado ao banco de dados[39m
+2023-10-26 17:16:59:1659 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 17:18:14:1814 - [35mGET /api/movies 200 842 - response-time ms[39m
+[35m[39m
+2023-10-26 17:18:26:1826 - [32mErro no sistema: movie.delete is not a function[39m
+2023-10-26 17:18:29:1829 - [35mDELETE /api/movie/653abefdbb463c5a3da22b94 - - - response-time ms[39m
+[35m[39m
+2023-10-26 17:18:36:1836 - [32mconectado ao banco de dados[39m
+2023-10-26 17:18:36:1836 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 17:18:39:1839 - [32mErro no sistema: movie.delete is not a function[39m
+2023-10-26 17:18:57:1857 - [35mDELETE /api/movie/653abefdbb463c5a3da22b94 - - - response-time ms[39m
+[35m[39m
+2023-10-26 17:19:16:1916 - [32mconectado ao banco de dados[39m
+2023-10-26 17:19:16:1916 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 17:19:21:1921 - [35mDELETE /api/movie/653abefdbb463c5a3da22b94 201 37 - response-time ms[39m
+[35m[39m
+2023-10-26 17:23:17:2317 - [35mDELETE /api/movie/653abefdbb463c5a3da22b94 201 37 - response-time ms[39m
+[35m[39m
+2023-10-26 17:23:41:2341 - [32mconectado ao banco de dados[39m
+2023-10-26 17:23:41:2341 - [32mAplicação funcionando port: 3000[39m
