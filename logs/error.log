@@ -1,0 +1,27 @@
+2023-10-26T11:55:58 - undefined
+2023-10-26T11:57:52 - undefined
+2023-10-26T11:58:07 - undefined
+2023-10-26 11:59:09:599 - undefined
+2023-10-26 11:59:30:5930 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:11:20:1120 - [32mconectado ao banco de dados[39m
+2023-10-26 12:11:20:1120 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:13:13:1313 - [32mconectado ao banco de dados[39m
+2023-10-26 12:13:13:1313 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:13:21:1321 - [32mconectado ao banco de dados[39m
+2023-10-26 12:13:21:1321 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:13:46:1346 - [31mNão foi possível conectar![39m
+2023-10-26 12:13:46:1346 - [31mNão foi possível conectar![39m
+2023-10-26 12:13:46:1346 - [31mquerySrv ENOTFOUND _mongodb._tcp.denism.wfy9.mongodb.net[39m
+2023-10-26 12:13:46:1346 - [31mquerySrv ENOTFOUND _mongodb._tcp.denism.wfy9.mongodb.net[39m
+2023-10-26 12:13:46:1346 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:14:43:1443 - [31mNão foi possível conectar![39m
+2023-10-26 12:14:43:1443 - [31mNão foi possível conectar![39m
+2023-10-26 12:14:43:1443 - [31mquerySrv ENOTFOUND _mongodb._tcp.denism.wfy9.mongodb.net[39m
+2023-10-26 12:14:43:1443 - [31mquerySrv ENOTFOUND _mongodb._tcp.denism.wfy9.mongodb.net[39m
+2023-10-26 12:14:43:1443 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:15:00:150 - [32mconectado ao banco de dados[39m
+2023-10-26 12:15:00:150 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:15:14:1514 - [32mconectado ao banco de dados[39m
+2023-10-26 12:15:14:1514 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 12:21:15:2115 - [32mconectado ao banco de dados[39m
+2023-10-26 12:21:15:2115 - [32mAplicação funcionando port: 3000[39m
