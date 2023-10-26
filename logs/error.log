@@ -25,3 +25,23 @@
 2023-10-26 12:15:14:1514 - [32mAplicação funcionando port: 3000[39m
 2023-10-26 12:21:15:2115 - [32mconectado ao banco de dados[39m
 2023-10-26 12:21:15:2115 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:02:10:210 - [32mconectado ao banco de dados[39m
+2023-10-26 14:02:10:210 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:02:28:228 - [32mconectado ao banco de dados[39m
+2023-10-26 14:02:28:228 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:03:11:311 - [32mconectado ao banco de dados[39m
+2023-10-26 14:03:11:311 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:06:09:69 - [32mconectado ao banco de dados[39m
+2023-10-26 14:06:09:69 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:08:08:88 - [32mconectado ao banco de dados[39m
+2023-10-26 14:08:08:88 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:09:59:959 - [32mconectado ao banco de dados[39m
+2023-10-26 14:09:59:959 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:10:02:102 - [35mGET /api/test 200 11 - 2.238 ms[39m
+[35m[39m
+2023-10-26 14:10:15:1015 - [32mconectado ao banco de dados[39m
+2023-10-26 14:10:15:1015 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:10:19:1019 - [35mGET /api/test 200 11 - 2.458 ms[39m
+[35m[39m
+2023-10-26 14:10:31:1031 - [32mconectado ao banco de dados[39m
+2023-10-26 14:10:31:1031 - [32mAplicação funcionando port: 3000[39m
