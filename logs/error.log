@@ -190,3 +190,16 @@
 [35m[39m
 2023-10-26 17:23:41:2341 - [32mconectado ao banco de dados[39m
 2023-10-26 17:23:41:2341 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 17:23:59:2359 - [32mconectado ao banco de dados[39m
+2023-10-26 17:23:59:2359 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 17:24:02:242 - [35mGET /api/movies 200 842 - response-time ms[39m
+[35m[39m
+2023-10-26 17:24:18:2418 - [32mErro no sistema: Cast to ObjectId failed for value "653abf99bb463c5a3da22b9" (type string) at path "_id" for model "Movie"[39m
+2023-10-26 17:24:44:2444 - [35mDELETE /api/movie/653abf99bb463c5a3da22b9 - - - response-time ms[39m
+[35m[39m
+2023-10-26 17:24:54:2454 - [35mDELETE /api/movie/ 404 152 - response-time ms[39m
+[35m[39m
+2023-10-26 17:24:58:2458 - [35mDELETE /api/movie/653abf99bb463c5a3da22b97 201 37 - response-time ms[39m
+[35m[39m
+2023-10-26 17:25:08:258 - [35mGET /api/movies 200 339 - response-time ms[39m
+[35m[39m
