@@ -51,3 +51,15 @@
 [35m[39m
 2023-10-26 14:13:32:1332 - [35mGET /api/test 200 11 - response-time ms[39m
 [35m[39m
+2023-10-26 14:27:57:2757 - [32mconectado ao banco de dados[39m
+2023-10-26 14:27:57:2757 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:29:01:291 - [35mPOST /api/movie 200 19 - response-time ms[39m
+[35m[39m
+2023-10-26 14:30:54:3054 - [32mconectado ao banco de dados[39m
+2023-10-26 14:30:54:3054 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:32:05:325 - [32mconectado ao banco de dados[39m
+2023-10-26 14:32:05:325 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:32:26:3226 - [32mconectado ao banco de dados[39m
+2023-10-26 14:32:26:3226 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 14:32:58:3258 - [32mconectado ao banco de dados[39m
+2023-10-26 14:32:58:3258 - [32mAplicação funcionando port: 3000[39m
