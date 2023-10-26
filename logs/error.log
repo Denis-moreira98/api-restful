@@ -125,3 +125,42 @@
 [35m[39m
 2023-10-26 16:03:12:312 - [35mPOST /api/movie - - - response-time ms[39m
 [35m[39m
+2023-10-26 16:03:24:324 - [32mconectado ao banco de dados[39m
+2023-10-26 16:03:24:324 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 16:03:26:326 - [35mPOST /api/movie 422 266 - response-time ms[39m
+[35m[39m
+2023-10-26 16:24:37:2437 - [32mconectado ao banco de dados[39m
+2023-10-26 16:24:37:2437 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 16:25:10:2510 - [32mconectado ao banco de dados[39m
+2023-10-26 16:25:10:2510 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 16:26:08:268 - [32mconectado ao banco de dados[39m
+2023-10-26 16:26:08:268 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 16:26:26:2626 - [32mconectado ao banco de dados[39m
+2023-10-26 16:26:26:2626 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 16:26:59:2659 - [32mErro no sistema: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Movie"[39m
+2023-10-26 16:27:01:271 - [35mGET /api/movie/:id - - - response-time ms[39m
+[35m[39m
+2023-10-26 16:27:05:275 - [32mErro no sistema: Cast to ObjectId failed for value ":653aa89039e2804959913302" (type string) at path "_id" for model "Movie"[39m
+2023-10-26 16:27:10:2710 - [35mGET /api/movie/:653aa89039e2804959913302 - - - response-time ms[39m
+[35m[39m
+2023-10-26 16:27:26:2726 - [32mErro no sistema: Cast to ObjectId failed for value ":653aa89039e2804959913302" (type string) at path "_id" for model "Movie"[39m
+2023-10-26 16:27:56:2756 - [35mGET /api/movie/:653aa89039e2804959913302 - - - response-time ms[39m
+[35m[39m
+2023-10-26 16:32:20:3220 - [31mErro no sistema: Movie validation failed: stars: Cast to string failed for value "[ 'Gwen, Peter' ]" (type Array) at path "stars"[39m
+2023-10-26 16:32:20:3220 - [31mErro no sistema: Movie validation failed: stars: Cast to string failed for value "[ 'Gwen, Peter' ]" (type Array) at path "stars"[39m
+2023-10-26 16:32:28:3228 - [35mPOST /api/movie - - - response-time ms[39m
+[35m[39m
+2023-10-26 16:32:42:3242 - [32mconectado ao banco de dados[39m
+2023-10-26 16:32:42:3242 - [32mAplicação funcionando port: 3000[39m
+2023-10-26 16:32:48:3248 - [31mErro no sistema: Movie validation failed: stars: Cast to string failed for value "[ 'Gwen, Peter' ]" (type Array) at path "stars"[39m
+2023-10-26 16:32:48:3248 - [31mErro no sistema: Movie validation failed: stars: Cast to string failed for value "[ 'Gwen, Peter' ]" (type Array) at path "stars"[39m
+2023-10-26 16:33:02:332 - [35mPOST /api/movie - - - response-time ms[39m
+[35m[39m
+2023-10-26 16:33:17:3317 - [35mPOST /api/movie 201 337 - response-time ms[39m
+[35m[39m
+2023-10-26 16:33:57:3357 - [35mGET /api/movie/653abefdbb463c5a3da22b94 200 337 - response-time ms[39m
+[35m[39m
+2023-10-26 16:35:53:3553 - [35mPOST /api/movie 201 502 - response-time ms[39m
+[35m[39m
+2023-10-26 16:36:01:361 - [35mGET /api/movie/653abf99bb463c5a3da22b97 200 502 - response-time ms[39m
+[35m[39m
