@@ -10,7 +10,7 @@ Construção de uma API em padrão MVC com framework express, onde utilizo o ban
 - Deletar filme DELETE(/api/movie/:id) - Através do id é possivel deletar um filme;
 - Alterar/atualizar informações do filme PATCH(/api/movie/:id) - Através do id é possivel fazer atualização das informações do filme.
 
-## Tecnolgias utilizadas:
+## Tecnologias utilizadas:
  - Nodejs
  - Express
  - MongoDB Atlas
